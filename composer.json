@@ -7,7 +7,11 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "ext-pdo": "*",
+        "directorytree/authorization": "^1.2",
         "laravel/framework": "^11.31",
+        "laravel/octane": "^2.8",
+        "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9"
     },
     "require-dev": {
